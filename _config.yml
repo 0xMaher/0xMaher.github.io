@@ -12,7 +12,7 @@ github_username:  0xMaher
 facebook_username: 0xMaher
 stackoverflow_userid: #
 linkedin_public_url: 0xMaher # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-profile_picture: /assets/img/0xMaher.jpg
+profile_picture: /assets/img/0xMaher.jpeg
 
 # Build settings
 markdown: kramdown
