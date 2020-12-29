@@ -1,4 +1,4 @@
-# Henrique Jung personal website
+# Mohamed Maher personal website
 
 This is my personal websites hosted on GitHub Pages based on the Space Jekyll
 template kindly provided by [victorvoid](https://github.com/victorvoid/). I've
