@@ -13,7 +13,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "0xmaher.com"
+publishDir   = "public"
 
 buildDrafts  = false
 buildFuture  = false
